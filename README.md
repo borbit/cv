@@ -68,34 +68,56 @@ Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-
 - Was partially responsible for design and usabilty of new site interfaces.
 - Markup and scripting.
 
-Node.js, OOCSS, Less, [BEM](http://bem.info/), jQuery, CSS3, HTML5, modular grids, GIT.
+`Node.js, OOCSS, BEM, Less, jQuery, CSS3, HTML5, modular grids, GIT`
 
 ###Web Developer
 [Arivo Solutions](http://www.arivosolutions.com/), June 2011 - Febrary 2012
 
 Agile development on [VNU](http://vnu.nl) project as a web developer.
 
-- Maintained and developed new features and components on corporative job sites.
+- Maintained and developed new features and components for corporative job sites.
 - Responsible for the full stack (front-end, application logic, services, data persistence).
 - Functional testing with Cucumber.
 
-JavaScript (vanilla), jQuery, TDD, JSTestDriver, PHP, ZendFramework, MySQL, Cucumber.
+`JavaScript (vanilla), jQuery, TDD, JSTestDriver, PHP, ZendFramework, MySQL, Cucumber`
 
 ###Web Developer
 [Lohika](http://www.lohika.com/), April 2010 - June 2011
 
-Lohika Labs, May 2011 - June 2011.
+**May 2011 - June 2011**, Lohika Labs.
 
 - Researching modern front-end technologies and technics.  
 - Improving programming skills.
 
-HTML5, CSS3, mobile, TDD, BDD, functional/unit testing, performance optimization, UX.
+`HTML5, CSS3, mobile, TDD, BDD, functional/unit testing, performance optimization, UX`
 
-Agile development on [SpilGames](http://spilgames.com) project as a web developer, April 2010 - May 2011.
+**April 2010 - May 2011**, [SpilGames](http://spilgames.com).
 
-- Maintained and developed new features and components on corporative game portals.
+- Maintained and developed new features and components for game portals.
 - Responsible for the full stack (front-end, application logic, services, data persistence).
 - Old front-end code base refactoring using TDD and CI as a main developing process.
 - Client-side performance optimization.
 
-HTML, CSS, jQuery, JSTestDriver, PHP, CakePHP, MySQL.
+`HTML, CSS, jQuery, JSTestDriver, PHP, CakePHP, MySQL`
+
+###Web Developer
+KI-Technology, September 2009 - April 2010
+
+[Tickets.ua](http://tickets.ua)
+
+- Designed core architecture for the booking system from scratch.
+- Responsible for the full stack (front-end, application logic, services, data persistence).
+
+`HTML, CSS, jQuery, PHP, ZendFramework, Doctrine, MySQL, WordPress`
+
+###Web Developer
+Eltima Software, January 2006 - September 2009
+
+http://www.eltima.com  
+http://mac.eltima.com
+
+- Maintained and developed new features and components.
+- Responsible for the full stack (front-end, application logic, data persistence).
+- Designed and developed a light-weight CMS for company's sites.
+
+`HTML, CSS, jQuery, PHP, MySQL, WordPress`
