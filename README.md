@@ -58,7 +58,7 @@ Expirience
 ----------
 
 ###Front-End Engineer  
-[Rebbix](https://www.facebook.com/rebbix.company), Febrary 2012 - Preset
+**Febrary 2012 - Preset**, [Rebbix](https://www.facebook.com/rebbix.company).
 
 Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-end engenier.
 
@@ -71,7 +71,7 @@ Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-
 `Node.js, OOCSS, BEM, Less, jQuery, CSS3, HTML5, modular grids, GIT`
 
 ###Web Developer
-[Arivo Solutions](http://www.arivosolutions.com/), June 2011 - Febrary 2012
+**June 2011 - Febrary 2012**, [Arivo Solutions](http://www.arivosolutions.com/).
 
 Agile development on [VNU](http://vnu.nl) project as a web developer.
 
@@ -82,16 +82,15 @@ Agile development on [VNU](http://vnu.nl) project as a web developer.
 `JavaScript (vanilla), jQuery, TDD, JSTestDriver, PHP, ZendFramework, MySQL, Cucumber`
 
 ###Web Developer
-[Lohika](http://www.lohika.com/), April 2010 - June 2011
 
-**May 2011 - June 2011**, Lohika Labs.
+**May 2011 - June 2011**, [Lohika](http://www.lohika.com/) Labs.
 
 - Researching modern front-end technologies and technics.  
 - Improving programming skills.
 
 `HTML5, CSS3, mobile, TDD, BDD, functional/unit testing, performance optimization, UX`
 
-**April 2010 - May 2011**, [SpilGames](http://spilgames.com).
+**April 2010 - May 2011**, [SpilGames](http://spilgames.com) ([Lohika](http://www.lohika.com/)).
 
 - Maintained and developed new features and components for game portals.
 - Responsible for the full stack (front-end, application logic, services, data persistence).
@@ -101,7 +100,7 @@ Agile development on [VNU](http://vnu.nl) project as a web developer.
 `HTML, CSS, jQuery, JSTestDriver, PHP, CakePHP, MySQL`
 
 ###Web Developer
-KI-Technology, September 2009 - April 2010
+**September 2009 - April 2010**, KI-Technology.
 
 [Tickets.ua](http://tickets.ua)
 
@@ -111,7 +110,7 @@ KI-Technology, September 2009 - April 2010
 `HTML, CSS, jQuery, PHP, ZendFramework, Doctrine, MySQL, WordPress`
 
 ###Web Developer
-Eltima Software, January 2006 - September 2009
+**January 2006 - September 2009**, Eltima Software.
 
 http://www.eltima.com  
 http://mac.eltima.com
