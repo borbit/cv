@@ -14,7 +14,7 @@ I am a passionate, enthusiastic front-end developer with intention to work hard 
 Summary
 -------
 
-More then 6 years of web developing experience in the ﬁeld. Good knowledge of web development processes and technologies. Good software design and programming skills. Strong attention to details. On top of the latest trends and technologies in front-end. Passion to open source. Strong desire to learn.
+More then 6 years of web development experience in the ﬁeld. Great knowledge of web development processes and technologies. Confident software design and programming skills. Strong attention to details. On top of the latest trends and technologies in front-end. Passion for open source. Constant desire to learn.
 
 ###Pet projects:
 
@@ -50,7 +50,7 @@ English: upper intermediate
 - Twitter Bootstrap, Foundation
 - Node.js, Express, PHP, ZendFramework
 - MongoDB, Redis, Memcache, MySQL
-- Chrome/XUL extensions
+- Chrome extensions
 - Apache, Nginx
 - GIT, SVN
 
@@ -64,22 +64,22 @@ Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-
 
 - Designed scalable front-end architecture.
 - Analysed and significantly optimized client-size performance.
-- Automated front-end building for the production environment.
-- Was partially responsible for design and usabilty of new site interfaces.
+- Automated front-end build process for the production environment.
+- Partially responsible for design and usabilty of new user interface.
 - Markup and scripting.
 
-`Node.js, OOCSS, BEM, Less, jQuery, CSS3, HTML5, modular grids, GIT`
+Technologies: `Node.js, OOCSS, BEM, Less, jQuery, CSS3, HTML5, modular grids, GIT`
 
 ###Web Developer
-**June 2011 - Febrary 2012**, [Arivo Solutions](http://www.arivosolutions.com/).
+**June 2011 - February 2012**, [Arivo Solutions](http://www.arivosolutions.com/).
 
 Agile development on [VNU](http://vnu.nl) project as a web developer.
 
 - Maintained and developed new features and components for corporative job sites.
-- Responsible for the full stack (front-end, application logic, services, data persistence).
+- Responsible for the full stack development (front-end, application logic, services, data persistence).
 - Functional testing with Cucumber.
 
-`JavaScript (vanilla), jQuery, TDD, JSTestDriver, PHP, ZendFramework, MySQL, Cucumber`
+Technologies: `JavaScript (vanilla), jQuery, TDD, JSTestDriver, PHP, ZendFramework, MySQL, Cucumber`
 
 ###Web Developer
 
@@ -88,16 +88,16 @@ Agile development on [VNU](http://vnu.nl) project as a web developer.
 - Researching modern front-end technologies and technics.  
 - Improving programming skills.
 
-`HTML5, CSS3, mobile, TDD, BDD, functional/unit testing, performance optimization, UX`
+Technologies: `HTML5, CSS3, mobile, TDD, BDD, functional/unit testing, performance optimization, UX`
 
 **April 2010 - May 2011**, [SpilGames](http://spilgames.com) ([Lohika](http://www.lohika.com/)).
 
-- Maintained and developed new features and components for game portals.
-- Responsible for the full stack (front-end, application logic, services, data persistence).
-- Old front-end code base refactoring using TDD and CI as a main developing process.
+- Maintained and developed new features and components for a number of casual gaming portals.
+- Responsible for the full stack development (front-end, application logic, services, data persistence).
+- Legacy front-end codebase refactoring using TDD and CI as a main development process.
 - Client-side performance optimization.
 
-`HTML, CSS, jQuery, JSTestDriver, PHP, CakePHP, MySQL`
+Technologies: `HTML, CSS, jQuery, JSTestDriver, PHP, CakePHP, MySQL`
 
 ###Web Developer
 **September 2009 - April 2010**, KI-Technology.
@@ -105,9 +105,9 @@ Agile development on [VNU](http://vnu.nl) project as a web developer.
 [Tickets.ua](http://tickets.ua)
 
 - Designed core architecture for the booking system from scratch.
-- Responsible for the full stack (front-end, application logic, services, data persistence).
+- Responsible for the full stack development (front-end, application logic, data persistence).
 
-`HTML, CSS, jQuery, PHP, ZendFramework, Doctrine, MySQL, WordPress`
+Technologies: `HTML, CSS, jQuery, PHP, ZendFramework, Doctrine, MySQL, WordPress`
 
 ###Web Developer
 **January 2006 - September 2009**, Eltima Software.
@@ -116,10 +116,10 @@ http://www.eltima.com
 http://mac.eltima.com
 
 - Maintained and developed new features and components.
-- Responsible for the full stack (front-end, application logic, data persistence).
-- Designed and developed a light-weight CMS for company's sites.
+- Responsible for the full stack development (front-end, application logic, data persistence).
+- Designed and developed a lightweight CMS for corporate websites.
 
-`HTML, CSS, jQuery, PHP, MySQL, WordPress`
+Technologies: `HTML, CSS, jQuery, PHP, MySQL, WordPress`
 
 Education
 ---------
