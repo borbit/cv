@@ -30,7 +30,6 @@ https://github.com/borbit/node-tailor
 ###Languages:
 
 English: upper intermediate  
-Russian: native
 
 ###Professional capabilities:
 
@@ -42,13 +41,19 @@ Russian: native
 ###Technical skills:
 
 - Expert JavaScript
-- Expert semantic HTML, CSS
+- Node.js, Express, PHP, ZendFramework
+- MongoDB, Redis, Memcache, MySQL
+- Expert semantic HTML(5), CSS(3)
 - jQuery, jQuery UI, jQuery plugins
 - Backbone, Underscore, Lodash
-- QUnit, Sinon, Mocha, Jasmine, JSTestDriver
-- Socket.io, SockJS
+- QUnit, Sinon, Mocha, Vows, JSTestDriver
+- WebSocket, Socket.io, SockJS
 - SASS, LESS, Stylus, responsive layouts
 - Twitter Bootstrap, Foundation
+- Chrome/XUL extensions
+- Apache, Nginx
+- GIT, SVN
+
 
 Expirience
 ----------
