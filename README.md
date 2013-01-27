@@ -40,20 +40,32 @@ English: upper intermediate
 
 ###Technical skills:
 
-- Expert JavaScript
-- Node.js, Express, PHP, ZendFramework
-- MongoDB, Redis, Memcache, MySQL
-- Expert semantic HTML(5), CSS(3)
+- JavaScript
+- Semantic HTML(5), CSS(3)
 - jQuery, jQuery UI, jQuery plugins
 - Backbone, Underscore, Lodash
 - QUnit, Sinon, Mocha, Vows, JSTestDriver
 - WebSocket, Socket.io, SockJS
 - SASS, LESS, Stylus, responsive layouts
 - Twitter Bootstrap, Foundation
+- Node.js, Express, PHP, ZendFramework
+- MongoDB, Redis, Memcache, MySQL
 - Chrome/XUL extensions
 - Apache, Nginx
 - GIT, SVN
 
-
 Expirience
 ----------
+
+###Front-End Engineer  
+[Rebbix](https://www.facebook.com/rebbix.company), Febrary 2012 - Preset
+
+Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-end engenier.
+
+- Designed scalable front-end architecture.
+- Analysed and significantly optimized client-size performance.
+- Automated front-end building for the production environment.
+- Was partially responsible on design and usabilty of new site interfaces.
+- Markup and scripting.
+
+Node.js, OOCSS, Less, [BEM](http://bem.info/), jQuery, CSS3, HTML5, modular grids, GIT.
