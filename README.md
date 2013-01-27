@@ -120,3 +120,9 @@ http://mac.eltima.com
 - Designed and developed a light-weight CMS for company's sites.
 
 `HTML, CSS, jQuery, PHP, MySQL, WordPress`
+
+Education
+---------
+
+###Computer Academy SHAG.
+Faculty "Software Development", 2004-2006.
