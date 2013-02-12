@@ -55,7 +55,7 @@ English: upper intermediate
 - Apache, Nginx
 - GIT, SVN
 
-Expirience
+Experience
 ----------
 
 ###Front-End Engineer  
