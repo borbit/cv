@@ -61,7 +61,7 @@ Experience
 ###Front-End Engineer  
 **February 2013 - Preset**, [Rebbix](https://www.facebook.com/rebbix.company).
 
-Agile development on startup [Rome.me](http://rove.me) project as a lead front-end engenier.
+Agile development on startup [Rome.me](http://rove.me) project as a lead front-end engineer.
 
 - Refactoring
 - Refactoring
@@ -71,7 +71,7 @@ Technologies: `Martin Fowler`
 
 **February 2012 - February 2013**, [Rebbix](https://www.facebook.com/rebbix.company).
 
-Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-end engenier.
+Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-end engineer.
 
 - Designed scalable front-end architecture.
 - Analysed and significantly optimized client-size performance.
