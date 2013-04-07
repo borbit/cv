@@ -61,7 +61,7 @@ Experience
 ###Front-End Engineer  
 **February 2013 - Preset**, [Rebbix](https://www.facebook.com/rebbix.company).
 
-Agile development on startup [Rome.me](http://rove.me) project as a lead front-end engineer.
+Agile development on startup [Rove.me](http://rove.me) project as a lead front-end engineer.
 
 - Refactoring
 - Refactoring
