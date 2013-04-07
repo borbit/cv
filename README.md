@@ -43,8 +43,8 @@ English: upper intermediate
 
 - JavaScript
 - Semantic HTML(5), CSS(3)
-- jQuery, jQuery UI, jQuery plugins
-- Backbone, Underscore, Lodash
+- jQuery, jQuery UI, jQuery plugins, jQuery Mobile
+- Backbone, Backbone.Marionette, Underscore, Lodash
 - QUnit, Sinon, Mocha, Vows, JSTestDriver, TravisCI
 - WebSocket, Socket.io, SockJS
 - SASS, LESS, Stylus, responsive layouts
@@ -59,7 +59,17 @@ Experience
 ----------
 
 ###Front-End Engineer  
-**Febrary 2012 - Preset**, [Rebbix](https://www.facebook.com/rebbix.company).
+**February 2013 - Preset**, [Rebbix](https://www.facebook.com/rebbix.company).
+
+Agile development on startup [Rome.me](http://rove.me) project as a lead front-end engenier.
+
+- Refactoring
+- Refactoring
+- Refactoring
+
+Technologies: `Martin Fowler`
+
+**February 2012 - February 2013**, [Rebbix](https://www.facebook.com/rebbix.company).
 
 Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-end engenier.
 
