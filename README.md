@@ -59,7 +59,7 @@ Experience
 ----------
 
 ###Front-End Engineer  
-**February 2013 - Preset**, [Rebbix](https://www.facebook.com/rebbix.company).
+**February 2013 - Preset**, [Rebbix](http://www.rebbix.com).
 
 Agile development on startup [Rove.me](http://rove.me) project as a lead front-end engineer.
 
@@ -69,7 +69,7 @@ Agile development on startup [Rove.me](http://rove.me) project as a lead front-e
 
 Technologies: `Martin Fowler`
 
-**February 2012 - February 2013**, [Rebbix](https://www.facebook.com/rebbix.company).
+**February 2012 - February 2013**, [Rebbix](https://www.rebbix.com).
 
 Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-end engineer.
 
@@ -80,6 +80,12 @@ Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-
 - Markup and scripting.
 
 Technologies: `Node.js, OOCSS, BEM, Less, jQuery, CSS3, HTML5, modular grids, GIT`
+
+**Other projects** on [Rebbix](https://www.rebbix.com):
+
+- [Rebbix Homepage](https://www.rebbix.com)
+    
+    Two weeks, two people, me and designer.
 
 ###Web Developer
 **June 2011 - February 2012**, [Arivo Solutions](http://www.arivosolutions.com/).
