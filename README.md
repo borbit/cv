@@ -22,6 +22,7 @@ http://mienfield.com
 http://clipbrd.com  
 
 https://github.com/borbit/tiler  
+https://github.com/borbit/muchmala  
 https://github.com/borbit/jquery.scrolla  
 https://github.com/borbit/jquery.viewport  
 https://github.com/borbit/jquery.scraggable  
