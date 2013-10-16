@@ -61,7 +61,18 @@ Experience
 ----------
 
 ###Front-End Engineer  
-**February 2013 - Preset**, [Rebbix](http://www.rebbix.com).
+
+**May 2013 - Present**, [Rebbix Labs](http://labs.rebbix.com).
+
+Full stack front-end development on various in-house projects (startups/prototypes). Implementation
+of flaxible and back-end agnostic architecture for fast front-end development. Client side optimization
+of web apps and pages for mobile devices (responsive, high defenition screens). Implementation of iframe
+based widget with support of legacy browsers on vanila JavaScript. Implementaion of rich interactive
+client side application based on modern CSS3/HTML5 technologies and techinics.
+
+Technologies: `Node.js, SVG, HTML5, Backbone.js, D3.js, WebSockets`
+
+**February 2013 - May 2013**, [Rebbix](http://www.rebbix.com).
 
 Agile development on startup [Rove.me](http://rove.me) project as a lead front-end engineer.
 
