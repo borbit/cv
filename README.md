@@ -1,20 +1,22 @@
 Serge Borbit
 ============
 
-Front-End Software Engineer from Lviv, Ukraine. Currently working at [Rebbix](https://www.facebook.com/rebbix.company).
+Front-End Software Engineer from Lviv, Ukraine. Currently working at [Rebbix](http://www.rebbix.com/).
 
 serge.borbit@gmail.com  
+Facebook: [@serge.borbit](https://www.facebook.com/serge.borbit)  
+Twitter: [@borbit](https://twitter.com/borbit)  
 Skype: **borbitus**
 
 About me
 --------
 
-I am a passionate, enthusiastic front-end developer with intention to work hard and efficiently, develop modern and lightning fast web sites, learn something new everyday, treat others with the utmost respect. I enjoy working in a team, sharing knowledge and learning from feedback.
+I am a passionate and enthusiastic front-end developer with intention to work hard and efficiently, develop modern and lightning fast web sites, learn something new everyday. I enjoy working in a team, sharing knowledge and learning from feedback.
 
 Summary
 -------
 
-More then 6 years of web development experience in the ﬁeld. Great knowledge of web development processes and technologies. Confident software design and programming skills. Strong attention to details. On top of the latest trends and technologies in front-end. Passion for open source. Constant desire to learn.
+7 years of web development experience in the ﬁeld. Great knowledge of web development processes and technologies. Confident software design and programming skills. Strong attention to details. On top of the latest trends and technologies of front-end. Passion for open source. Constant desire to learn.
 
 ###Pet projects:
 
@@ -24,11 +26,11 @@ http://clipbrd.com
 
 https://github.com/borbit/tiler  
 https://github.com/borbit/muchmala  
-https://github.com/borbit/jquery.scrolla  
-https://github.com/borbit/jquery.viewport  
-https://github.com/borbit/jquery.scraggable  
 https://github.com/borbit/node-leaderboard  
-https://github.com/borbit/node-tailor
+https://github.com/borbit/node-tailor  
+https://github.com/borbit/jquery.scraggable  
+https://github.com/borbit/jquery.viewport  
+https://github.com/borbit/jquery.scrolla
 
 ###Languages:
 
@@ -43,15 +45,15 @@ English: upper intermediate
 
 ###Technical skills:
 
-- JavaScript
+- JavaScript, CoffeeScript
 - Semantic HTML(5), CSS(3)
 - jQuery, jQuery UI, jQuery plugins, jQuery Mobile
-- Backbone, Backbone.Marionette, Underscore, Lodash
+- Angualr, Backbone, Backbone.Marionette, Underscore, Lodash
 - QUnit, Sinon, Mocha, Vows, JSTestDriver, TravisCI
 - WebSocket, Socket.io, SockJS
 - SASS, LESS, Stylus, responsive layouts
 - Twitter Bootstrap, Foundation
-- Node.js, Express, PHP, ZendFramework
+- Node.js, Express, Gulp, Browserify
 - MongoDB, Redis, Memcache, MySQL
 - Chrome extensions
 - Apache, Nginx
@@ -62,7 +64,16 @@ Experience
 
 ###Front-End Engineer  
 
-**May 2013 - Present**, [Rebbix Labs](http://labs.rebbix.com).
+**February 2014 - Present**, [Rebbix](http://www.rebbix.com).
+
+Lead front-end developer on XMarket project.
+
+Development of highly performant front-end for big, feature-rich, multilanguage classified service
+with support of tablets and mobile devices, from scratch. Designinig of modular, easely maintainable,
+back-end agnostic front-end architecure based on Node.js, Express, Browserify, Gulp, CoffeeScript, Angualr.js,
+LESS, BEM. Development of an automated build system producing optimized external resources (js, css, images) for the production environment.
+
+**May 2013 - February 2014**, [Rebbix Labs](http://labs.rebbix.com).
 
 Full stack front-end development on various in-house projects (startups/prototypes). Implementation
 of flaxible and back-end agnostic architecture for fast front-end development. Client side optimization
@@ -70,7 +81,7 @@ of web apps and pages for mobile devices (responsive, high defenition screens). 
 based widget with support of legacy browsers on vanila JavaScript. Implementaion of rich interactive
 client side application based on modern CSS3/HTML5 technologies and techinics.
 
-Technologies: `Node.js, SVG, HTML5, Backbone.js, D3.js, WebSockets`
+Technologies: `Node.js, SVG, HTML5, Backbone.js, D3.js, WebSockets, BEM`
 
 **February 2013 - May 2013**, [Rebbix](http://www.rebbix.com).
 
