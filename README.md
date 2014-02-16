@@ -4,9 +4,11 @@ Serge Borbit
 Front-End Software Engineer from Lviv, Ukraine. Currently working at [Rebbix](http://www.rebbix.com/).
 
 serge.borbit@gmail.com  
+Skype: **borbitus**  
+
 Facebook: [@serge.borbit](https://www.facebook.com/serge.borbit)  
-Twitter: [@borbit](https://twitter.com/borbit)  
-Skype: **borbitus**
+Twitter #1: [@minefield_game](https://twitter.com/minefield_game)  
+Twitter #2: [@borbit](https://twitter.com/borbit)
 
 About me
 --------
