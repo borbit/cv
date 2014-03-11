@@ -50,7 +50,7 @@ English: upper intermediate
 - JavaScript, CoffeeScript
 - Semantic HTML(5), CSS(3)
 - jQuery, jQuery UI, jQuery plugins, jQuery Mobile
-- Angualr, Backbone, Backbone.Marionette, Underscore, Lodash
+- Angular, Backbone, Backbone.Marionette, Underscore, Lodash
 - QUnit, Sinon, Mocha, Vows, JSTestDriver, TravisCI
 - WebSocket, Socket.io, SockJS
 - SASS, LESS, Stylus, responsive layouts
@@ -72,7 +72,7 @@ Lead front-end developer on XMarket project.
 
 Development of highly performant front-end for big, feature-rich, multilanguage classified service
 with support of tablets and mobile devices, from scratch. Designinig of modular, easely maintainable,
-back-end agnostic front-end architecure based on Node.js, Express, Browserify, Gulp, CoffeeScript, Angualr.js,
+back-end agnostic front-end architecure based on Node.js, Express, Browserify, Gulp, CoffeeScript, Angular.js,
 LESS, BEM. Development of an automated build system producing optimized external resources (js, css, images) for the production environment.
 
 **May 2013 - February 2014**, [Rebbix Labs](http://labs.rebbix.com).
