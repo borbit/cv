@@ -50,7 +50,7 @@ English: upper intermediate
 - JavaScript, CoffeeScript
 - Semantic HTML(5), CSS(3)
 - jQuery, jQuery UI, jQuery plugins, jQuery Mobile
-- Angular, Backbone, Backbone.Marionette, Underscore, Lodash
+- React, Angular, Backbone, Backbone.Marionette, Underscore, Lodash
 - QUnit, Sinon, Mocha, Vows, JSTestDriver, TravisCI
 - WebSocket, Socket.io, SockJS
 - SASS, LESS, Stylus, responsive layouts
