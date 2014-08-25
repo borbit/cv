@@ -69,12 +69,12 @@ Experience
 
 **February 2014 - Present**, [Rebbix](http://www.rebbix.com).
 
-Lead front-end developer on XMarket project.
+Lead front-end developer on [XMarket](https://ca.xmarket.com/vehicles/cars).
 
 Development of highly performant front-end for big, feature-rich, multilanguage classified service
-with support of tablets and mobile devices, from scratch. Designinig of modular, easely maintainable,
+with support of tablets and mobile devices, from scratch. Designinig modular, easely maintainable,
 back-end agnostic front-end architecure based on Node.js, Express, Browserify, Gulp, CoffeeScript, Angular.js,
-LESS, BEM. Development of an automated build system producing optimized external resources (js, css, images) for the production environment.
+LESS, BEM. Development of automated build system producing optimized external resources (js, css, images) for the production environment.
 
 **May 2013 - February 2014**, [Rebbix Labs](http://labs.rebbix.com).
 
