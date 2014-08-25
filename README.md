@@ -170,3 +170,11 @@ Education
 
 ###Computer Academy SHAG.
 Faculty "Software Development", 2004-2006.
+
+Recommendations
+---------------
+
+###[Edward Robe](http://ua.linkedin.com/pub/edward-robe/1b/157/61a)
+Freelance English Teacher
+
+I have been Serge's English teacher for a few months now, and can attest to his ability to express himself in English on a variety of topics, both in and outside of his specialty as an IT professional. He is an eager pupil, curious, inquisitive, and always willing to learn while pushing the limits of his English ability ever further. I wholeheartedly vouch for his ability to work in any given English-speaking environment, placing his current level at a solid B2/C1 level, and have no doubts that his English will be perfected within the year, given his current rate of study.
