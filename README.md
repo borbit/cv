@@ -6,26 +6,26 @@ Front-End Software Engineer from Lviv, Ukraine. Currently working at [Rebbix](ht
 serge.borbit@gmail.com  
 Skype: **borbitus**  
 
-Facebook: [@serge.borbit](https://www.facebook.com/serge.borbit)  
-Twitter #1: [@minefield_game](https://twitter.com/minefield_game)  
-Twitter #2: [@borbit](https://twitter.com/borbit)
+Social networks:  
+[https://www.facebook.com/serge.borbit](https://www.facebook.com/serge.borbit)  
+[https://twitter.com/minefield_game](https://twitter.com/minefield_game)  
+[https://twitter.com/borbit](https://twitter.com/borbit)
 
 About me
 --------
 
-I am a passionate and enthusiastic front-end developer with intention to work hard and efficiently, develop modern and lightning fast web sites, learn something new everyday. I enjoy working in a team, sharing knowledge and learning from feedback.
+I am a passionate and enthusiastic front-end developer with intention to work hard and efficiently, develop modern and lightning fast web sites and web apps, learn something new everyday. I enjoy working in a team, sharing knowledge and learning from feedback.
 
 Summary
 -------
 
-7 years of web development experience in the ﬁeld. Great knowledge of web development processes and technologies. Confident software design and programming skills. Strong attention to details. On top of the latest trends and technologies of front-end. Passion for open source. Constant desire to learn.
+10 years of web development experience in the ﬁeld. Great knowledge of web development processes and technologies. Confident software design and programming skills. Strong attention to details. On top of the latest trends and technologies of front-end field. Passion for open source. Constant desire to learn.
 
 ###Pet projects:
 
 http://mienfield.com  
-http://flags.mienfield.com  
-http://muchmala.com  
 http://clipbrd.com  
+http://borb.it  
 
 https://github.com/borbit/tiler  
 https://github.com/borbit/muchmala  
@@ -41,22 +41,22 @@ English: upper intermediate
 
 ###Professional capabilities:
 
-- High-quality front-end development for web sites and web apps.
-- Performance optimisation, progressive enhancement, gracefull degradation.
+- High-quality front-end development of web sites and web apps.
+- Performance optimisations, progressive enhancement, gracefull degradation.
 - Modular, scalable, robust, and reusable code.
 - Test/behavior driven development.
 
 ###Technical skills:
 
-- JavaScript, CoffeeScript
+- JavaScript, ES6, CoffeeScript
 - Semantic HTML(5), CSS(3)
 - jQuery, jQuery UI, jQuery plugins, jQuery Mobile
-- React, Angular, Backbone, Backbone.Marionette, Underscore, Lodash
+- React, Redux, Angular, Backbone, Backbone.Marionette, Underscore, Lodash
 - QUnit, Sinon, Mocha, Vows, JSTestDriver, TravisCI
 - WebSocket, Socket.io, SockJS
 - SASS, LESS, Stylus, responsive layouts
 - Twitter Bootstrap, Foundation
-- Node.js, Express, Gulp, Browserify
+- Node.js, Express, Gulp, WebPack, Babel, Browserify
 - MongoDB, Redis, Memcache, MySQL
 - Chrome extensions
 - Apache, Nginx
@@ -67,9 +67,21 @@ Experience
 
 ###Front-End Engineer  
 
-**February 2014 - Present**, [Rebbix](http://www.rebbix.com).
+**March 2015 - Present**, [Rebbix](http://www.rebbix.com).
 
-Lead front-end developer on [XMarket](https://ca.xmarket.com/vehicles/cars).
+Lead front-end developer at [Fairy](https://www.itsfairy.com/).
+
+Working on the "Residents Web App". Current tech stack:
+
+- Node.js
+- React, Redux
+- ES6, Babel, Browserify
+- LESS, BEM
+- Heroku
+
+**February 2014 - March 2015**, [Rebbix](http://www.rebbix.com).
+
+Lead front-end developer at [Oba](https://oba.com.br).
 
 Development of highly performant front-end for big, feature-rich, multilanguage classified service
 with support of tablets and mobile devices, from scratch. Designinig modular, easely maintainable,
@@ -88,7 +100,7 @@ Technologies: `Node.js, SVG, HTML5, Backbone.js, D3.js, WebSockets, BEM`
 
 **February 2013 - May 2013**, [Rebbix](http://www.rebbix.com).
 
-Agile development on startup [Rove.me](http://rove.me) project as a lead front-end engineer.
+Agile development at [Rove.me](http://rove.me) project as a lead front-end engineer.
 
 - Refactoring
 - Refactoring
@@ -98,7 +110,7 @@ Technologies: `Martin Fowler`
 
 **February 2012 - February 2013**, [Rebbix](https://www.rebbix.com).
 
-Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-end engineer.
+Agile development at [ModnaKasta](http://modnakasta.ua) project as a lead front-end engineer.
 
 - Designed scalable front-end architecture.
 - Analysed and significantly optimized client-size performance.
@@ -108,7 +120,7 @@ Agile development on [ModnaKasta](http://modnakasta.ua) project as a lead front-
 
 Technologies: `Node.js, OOCSS, BEM, Less, jQuery, CSS3, HTML5, modular grids, GIT`
 
-**Other projects** on [Rebbix](https://www.rebbix.com):
+**Other projects** at [Rebbix](https://www.rebbix.com):
 
 - [Rebbix Homepage](https://www.rebbix.com)
     
@@ -117,7 +129,7 @@ Technologies: `Node.js, OOCSS, BEM, Less, jQuery, CSS3, HTML5, modular grids, GI
 ###Web Developer
 **June 2011 - February 2012**, [Arivo Solutions](http://www.arivosolutions.com/).
 
-Agile development on [VNU](http://vnu.nl) project as a web developer.
+Agile development at [VNU](http://vnu.nl) project as a web developer.
 
 - Maintained and developed new features and components for corporative job sites.
 - Responsible for the full stack development (front-end, application logic, services, data persistence).
